@@ -1,0 +1,5 @@
+markitdown[all]
+sv-ttk
+tkinterdnd2
+pyinstaller
+pyinstaller-hooks-contrib

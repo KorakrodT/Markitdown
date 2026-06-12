@@ -1,0 +1,23 @@
+# Build artifacts (large binaries — not for git)
+release/
+build/
+dist/
+installer_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated files
+src/installer_gen.iss
+error_log.txt
+
+# Tools / IDE
+.qodo/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
